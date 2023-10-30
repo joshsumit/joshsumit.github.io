@@ -1,1 +1,9 @@
+Multiprotocol Label Switching. 
+packet-switched network.
+Labels rather than network addresses.
+ layer 2.5 protocol
 
+MPLS can encapsulate packets of various network protocols
+T1/E1, ATM, Frame Relay, and DSL.
+
+MPLS recognizes that small ATM cells are not needed in the core of modern networks
